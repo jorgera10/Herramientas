@@ -1,0 +1,20 @@
+.group{
+    margin: 15px;
+}
+.input-group input{
+    border-right: 0px;
+}
+
+.input-group-text{
+    color: red;
+    background: transparent;
+    border-left: 0px;
+}
+
+.text-help{
+    display: none;
+}
+
+.group-correct p i{
+    color: rgb(66, 66, 255);
+}

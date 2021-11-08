@@ -1,0 +1,57 @@
+[
+
+    {
+        "id": "1",
+        "codigoPED":"CodPED1",
+        "nombre":"Pedestal para Piano",
+        "marca":"N/A",
+        "categoria":"Soportes-Pedestales",
+        "subcategoria":"Piano",
+        "estado":"Nuevo",
+        "descripcion":"Soporte de teclado de estilo X con doble refuerzo, plegable.Altura: 69 a 99 cm (27 a 39 ), ajustable, 5 peldaños.Diametro del tubo: 25,6 mm.Carga máxima: 30 kg (66 lb). on goma antideslizante en los pies del pedestal garantizando estabilidad.",	
+	    "color":"Negro",
+        "precio":29,
+        "Disponible":1,	
+        "imagen":"imagenes/Pedestal Piano_I1"
+    },{
+        "id": "2",
+        "codigoPED":"CodPED2",
+        "nombre":"Pedestal para Microfono",
+        "marca":"WVNGR",
+        "categoria":"Soportes-Pedestales",
+        "subcategoria":"Microfono",
+        "estado":"Nuevo",
+        "descripcion":"Pedetal con Boom para dos microfonos, regulable y desarmable, metalico. on goma antideslizante en los pies del pesdetal garantizando estabilidad.",	
+	    "color":"Negro",
+        "precio":23,
+        "Disponible":1,	
+        "imagen":"imagenes/Pedestal Microfono_I1"
+    },{
+        "id": "3",
+        "codigoPED":"CodPED3",
+        "nombre":"Pedestal para Parlante",
+        "marca":"N/A",
+        "categoria":"Soportes-Pedestales",
+        "subcategoria":"Parlante",
+        "estado":"Nuevo",
+        "descripcion":"Soporte para Parlante de 8 a 15 pulgadas, regulable, metalico con pasador para ajuste y seguridad. Con goma antideslizante en los pies del pedestal garantizando estabilidad.",	
+	    "color":"Negro",
+        "precio":29,
+        "Disponible":1,	
+        "imagen":"imagenes/Pedestal Parlante_I1"
+    },{
+        "id": "4",
+        "codigoPED":"CodPED4",
+        "nombre":"Pedestal para Guitarras",
+        "marca":"ItalyAudio",
+        "categoria":"Soportes-Pedestales",
+        "subcategoria":"Guitarra",
+        "estado":"Nuevo",
+        "descripcion":"Soporte - tripode metalico para 3 guitarras de hasta 40 pulgadas,Con diseño antideslizante, para brindar estabilidad y seguridad al usuario, manteniendo las guitarras en su lugar.",	
+	    "color":"Negro",
+        "precio":27,
+        "Disponible":1,	
+        "imagen":"imagenes/Pedestal Guitarra_I1"
+    }
+    
+]

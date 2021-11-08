@@ -1,0 +1,59 @@
+[
+
+{
+    "id": "1",
+    "nombre":"Guitarra Clasica 40",
+    "marca":"Española",
+    "categoria":"Instrumentos",
+    "subcategoria":"Guitarras",
+    "estado":"Nueva",
+    "tamaño":"40",
+    "cuerdas":"Nylon",
+    "madera":"Palo de rosa y secoya",
+    "tilo":"superior, trasero y lateral",
+    "diapason":"Paolo de rosa",
+    "pintura":"altobrillo",
+    "color":"natural",	
+    "incluye":"Vitela",	
+    "precio":75,
+    "disponible":1,	
+    "imagen":"imagenes/Guitarra_Española_I1"
+},{
+    "id": "2",
+    "nombre":"Guitarra Clasica 40",
+    "marca":"Omega",
+    "categoria":"Instrumentos",
+    "subcategoria":"Guitarras",
+    "estado":"Nueva",
+    "tamaño":"40",
+    "cuerdas":"Nylon",
+    "madera":"Palo de rosa",
+    "tilo":"superior, trasero y lateral",
+    "diapason":"palisandro",
+    "pintura":"altobrillo",
+    "color":"Negra, naranja, azul, natural",	
+    "incluye":"Estuche y vitela",	
+    "precio":45,
+    "disponible":1,	
+    "imagen":"imagenes/Guitarras 40_I1.png"
+},{
+    "id": "3",
+    "nombre":"Guitarra Clasica 36",
+    "marca":"Omega",
+    "categoria":"Instrumentos",
+    "subcategoria":"Guitarras",
+    "estado":"Nueva",
+    "tamaño":"36",
+    "cuerdas":"Nylon",
+    "madera":"Palo de rosa",
+    "tilo":"superior, trasero y lateral",
+    "diapason":"palisandro",
+    "pintura":"altobrillo",
+    "color":"Negra, naranja, azul, natural",	
+    "incluye":"N/A",	
+    "precio":40,
+    "disponible":1,	
+    "imagen":"imagenes/Guitarras 36_I1.png"
+}
+
+]
